@@ -55,7 +55,7 @@ public class LoginActivity extends BaseActivity<ILoginView, LoginPresenter> impl
 
     @Override
     public void loginSuccess() {
-        toast("登录成功！");
+        toast(getString(R.string.login_success));
     }
 
     @Override

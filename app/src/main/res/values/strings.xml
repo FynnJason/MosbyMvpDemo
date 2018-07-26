@@ -2,5 +2,6 @@
     <string name="app_name">MosbyMvpDemo</string>
     <string name="no_network">没有网了！</string>
     <string name="json_error">数据加载错误！</string>
+    <string name="login_success">登录成功！</string>
 
 </resources>
